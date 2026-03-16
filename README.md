@@ -223,8 +223,10 @@ Run `python -m crawlixir.hardware_scan` if you're not sure.
 
 - [ ] Playwright for JS-heavy sites
 - [x] Gmail draft integration
-- [ ] Web search
+- [ ] Web search (query → scrape results → extract structured data)
+- [ ] Export to CSV, JSON, and Excel
 - [ ] Async batch scraping
+- [ ] AI-powered bulk data collection (e.g. "find all scholarships in Europe")
 - [ ] FastAPI server mode
 - [ ] Browser extension
 - [ ] Desktop GUI
