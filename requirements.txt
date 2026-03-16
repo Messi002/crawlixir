@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+markdownify
+aiohttp
+pdfplumber
+python-docx
+pytesseract
+Pillow
+psutil

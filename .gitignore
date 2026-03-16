@@ -1,0 +1,24 @@
+# Credentials & secrets
+client_secret*.json
+credentials.json
+*_token.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
